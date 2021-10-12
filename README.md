@@ -54,3 +54,7 @@ See the [example_csv_file](example_palo_interface_media.csv) for an example of t
 ## Changelog
 
 See the [CHANGELOG](CHANGELOG) file for details
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
