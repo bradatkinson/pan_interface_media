@@ -1,0 +1,5 @@
+Hostname,Media,Slot,Port,Connector,Vendor,Part #,State
+fw1,SFP-Plus-Fiber,1,1,LC,FINISAR CORP.,FTLX1475D3BCL,up
+fw1,SFP-Plus-Fiber,1,2,LC,FINISAR CORP.,FTLX1475D3BCL,up
+fw2,SFP-Plus-Fiber,1,1,LC,FINISAR CORP.,FTLX1475D3BCL,up
+fw2,SFP-Plus-Fiber,1,2,LC,FINISAR CORP.,FTLX1475D3BCL,up
